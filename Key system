@@ -3,7 +3,7 @@ local Players = game:GetService("Players")
 
 local player = Players.LocalPlayer
 
-local CORRECT_KEY = "Uno X Luna"
+local CORRECT_KEY = "NovaOnTop"
 local GET_KEY_LINK = "put ut linl here nigga"
 
 local Gui = Instance.new("ScreenGui", game.CoreGui)
@@ -28,7 +28,7 @@ TweenService:Create(Main,TweenInfo.new(0.5),{Position=UDim2.new(0.5,-200,0.5,-13
 local Title = Instance.new("TextLabel", Main)
 Title.Size = UDim2.new(1,0,0,50)
 Title.BackgroundTransparency = 1
-Title.Text = "LUNA HUB | KEY SYSTEM"
+Title.Text = "Nova Hub S | KEY SYSTEM"
 Title.Font = Enum.Font.GothamBold
 Title.TextSize = 22
 Title.TextColor3 = Color3.fromRGB(0,255,255)
@@ -37,7 +37,7 @@ local Owner = Instance.new("TextLabel", Main)
 Owner.Size = UDim2.new(1,0,0,30)
 Owner.Position = UDim2.new(0,0,0,45)
 Owner.BackgroundTransparency = 1
-Owner.Text = "Luna Hub Owner : Uno X Luna"
+Owner.Text = "Nova Hub S Owner : AhamdDev"
 Owner.Font = Enum.Font.Gotham
 Owner.TextSize = 14
 Owner.TextColor3 = Color3.fromRGB(200,200,200)
