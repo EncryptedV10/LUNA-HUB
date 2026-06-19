@@ -103,8 +103,7 @@ Submit.MouseButton1Click:Connect(function()
 		wait(0.5)
 		TweenService:Create(Main,TweenInfo.new(0.5),{Position=UDim2.new(0.5,-200,1,300)}):Play()
 		wait(0.5)
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/EpicDeevvXDarkness/UnoXLuna/refs/heads/main/Luna%20hub"))()
-	else
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/EncryptedV10/Nova-Hub/refs/heads/main/Muscle%20Legend'))()
 		Submit.Text = "Wrong Key ❌"
 		wait(1)
 		Submit.Text = "Submit Key"
