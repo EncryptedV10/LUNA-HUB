@@ -4,10 +4,10 @@ local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
 local CORRECT_KEY = "SLONTOP"
-local GET_KEY_LINK = "put ut linl here nigga"
+local GET_KEY_LINK = "https://discord.gg/mhDRTAvE5X"
 
 local Gui = Instance.new("ScreenGui", game.CoreGui)
-Gui.Name = "NovaHub_KEY"
+Gui.Name = "SLHUB_KEY"
 Gui.ResetOnSpawn = false
 
 local Main = Instance.new("Frame", Gui)
