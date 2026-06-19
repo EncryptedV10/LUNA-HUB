@@ -7,7 +7,7 @@ local CORRECT_KEY = "NovaOnTop"
 local GET_KEY_LINK = "put ut linl here nigga"
 
 local Gui = Instance.new("ScreenGui", game.CoreGui)
-Gui.Name = "LUNA_KEY"
+Gui.Name = "NovaHub_KEY"
 Gui.ResetOnSpawn = false
 
 local Main = Instance.new("Frame", Gui)
